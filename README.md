@@ -1,3 +1,5 @@
+Nathan's Ruby on Rails sample app
+
 == README
 
 This README would normally document whatever steps are necessary to get the
