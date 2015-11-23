@@ -1,6 +1,18 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
+/*users index*/
+.users
+{ list-style: none;
+  margin: 0;
+  li
+  { overflow: auto;
+    padding: 10px 0;
+    border-bottom: 1px solid $gray-lighter;
+  }
+}
+
+
 /*forms*/
 input, textarea, select, .uneditable-input
 { border: 1px solid #bbb;
